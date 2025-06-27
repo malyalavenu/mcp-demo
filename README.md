@@ -2,6 +2,10 @@
 
 This is a TypeScript implementation of the **MCP: Build Rich-Context AI Apps with Anthropic** course from [DeepLearning.AI](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic).
 
+<a href="https://glama.ai/mcp/servers/@malyalavenu/mcp-demo">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@malyalavenu/mcp-demo/badge" alt="TypeScript Demo Server MCP server" />
+</a>
+
 ## Overview
 
 This project demonstrates the Model Context Protocol (MCP) implementation with streamable HTTP capabilities. MCP is an open protocol that standardizes how LLM applications can access context through tools and data resources using a client-server architecture.
@@ -130,4 +134,4 @@ This project is for educational purposes only. Please refer to the original cour
 For questions about the MCP protocol or the original course, please refer to:
 - [MCP Documentation](https://modelcontextprotocol.io/)
 - [DeepLearning.AI Course](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic)
-- [Anthropic Documentation](https://docs.anthropic.com/) 
+- [Anthropic Documentation](https://docs.anthropic.com/)
